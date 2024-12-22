@@ -91,10 +91,7 @@ $$
 
 Therefore, the correct answer is:
 $$
-\begin{pmatrix}
--\sin(2\theta) \\
-\cos(2\theta)
-\end{pmatrix}
+(-\sin(2θ)\cos(2θ))
 $$
 
 **Q**: We have a qubit in state |0⟩|0⟩ .
